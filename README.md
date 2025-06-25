@@ -2,8 +2,7 @@
 
 This is a full-stack whiteboard collaboration application with a backend built using Node.js and Express, and a separate frontend (inside `frontend1.zip`).
 
----
-
+[WhatsApp Image 2025-06-26 at 02 13 53](https://github.com/user-attachments/assets/64e501ec-3db6-4625-b5e6-47e042479fd8)
 ## 📁 Project Structure
 
 Whiteboard_project/
